@@ -1,3 +1,4 @@
+![logo](https://www.roke.co.uk/media/afhbdeyk/data-science-banner-image.jpeg?anchor=center&mode=crop&width=720&height=292&format=jpeg&quality=20&rnd=132352207617000000)
 <h1 align="center">Hi 👋, I'm Dev Sijariya</h1>
 <h3 align="center">I'm Creative and Adaptable Student with a Growth Mindset and a Love for Learning and Passionate Learner with a Strong Work Ethic and a Desire to Make a Difference</h3>
 <img align="right" alt="code" width="280" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
