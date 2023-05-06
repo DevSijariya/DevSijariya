@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/sanskar-sijariya-7544b2242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanskar-sijariya-7544b2242/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sanskar_sijariya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sanskar_sijariya/" height="30" width="40" /></a>
 <a href="https://youtube.com/@sanskar_sijariya4125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@sanskar_sijariya4125" height="30" width="40" /></a>
-<a href="hhttps://www.codechef.com/users/sanskar_660" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sanskar_660" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sanskar_660" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sanskar_660" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sanskarsijariya80/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sanskarsijariya80/practice" height="30" width="40" /></a>
 </p>
 
