@@ -1,4 +1,4 @@
-![logo](https://c.tenor.com/rKW5E21KRbkAAAAC/space-science.gif)
+![logo](https://i1.wp.com/ilikeinterfaces.com/wp-content/uploads/2015/12/00_59_4700272.png?ssl=1)
 <h1 align="center">Hi 👋, I'm Dev Sijariya</h1>
 <h3 align="center">I'm Creative and Adaptable Student with a Growth Mindset and a Love for Learning and Passionate Learner with a Strong Work Ethic and a Desire to Make a Difference</h3>
 <img align="right" alt="code" width="280" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
