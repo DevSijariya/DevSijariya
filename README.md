@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sanskarsijariya80@gmail.com**
 
-- ⚡ Fun fact **I am very funny but focused on my goals**
+- ⚡ Fun fact **I am very funny but focused on my goals 😅😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
