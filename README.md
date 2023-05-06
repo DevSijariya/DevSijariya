@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dev Sijariya</h1>
 <h3 align="center">I'm Creative and Adaptable Student with a Growth Mindset and a Love for Learning and Passionate Learner with a Strong Work Ethic and a Desire to Make a Difference</h3>
-
+<img align="right" alt="code" width="400" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsijariya&label=Profile%20views&color=0e75b6&style=flat" alt="devsijariya" /> </p>
 
 - 🔭 I’m currently a 2nd year student **from Information Technology**
