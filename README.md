@@ -1,4 +1,4 @@
-![logo](https://www.leasinglife.com/wp-content/uploads/sites/7/2021/04/shutterstock_1469981750-1.jpg)
+![logo](https://c.tenor.com/rKW5E21KRbkAAAAC/space-science.gif)
 <h1 align="center">Hi 👋, I'm Dev Sijariya</h1>
 <h3 align="center">I'm Creative and Adaptable Student with a Growth Mindset and a Love for Learning and Passionate Learner with a Strong Work Ethic and a Desire to Make a Difference</h3>
 <img align="right" alt="code" width="280" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
