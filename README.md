@@ -4,7 +4,7 @@
 <img align="right" alt="code" width="280" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsijariya&label=Profile%20views&color=0e75b6&style=flat" alt="devsijariya" /> </p>
 
-- 🔭 I’m currently a 2nd year student **from Information Technology**
+- 🔭 I’m currently a 3nd year student **from Information Technology**
 
 - 🌱 I’m currently learning **Data Science with AI-ML using Python**
 
